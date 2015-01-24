@@ -10,7 +10,6 @@
     <name>Spring Security Bcrypt example</name>
 
     <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <hibernate.version>4.3.8.Final</hibernate.version>
@@ -19,7 +18,7 @@
         <javax.servlet-api.version>3.0.1</javax.servlet-api.version>
         <junit.version>4.11</junit.version>
 
-        <spring.version>3.2.3.RELEASE</spring.version>
+        <spring.version>3.2.13.RELEASE</spring.version>
         <spring.data.jpa.version>1.3.1.RELEASE</spring.data.jpa.version>
         <spring.security.version>3.2.5.RELEASE</spring.security.version>
     </properties>
