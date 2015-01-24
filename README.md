@@ -1,4 +1,4 @@
-# spring-security-scrypt
+# Spring scrypt
 Spring Security using scrypt to hash password: Java
 
 Prerequisites
