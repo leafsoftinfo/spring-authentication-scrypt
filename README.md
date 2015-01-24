@@ -1,2 +1,2 @@
 # spring-security-scrypt
-Squash Client Library: Java
+Spring Security using scrypt to hash password: Java
